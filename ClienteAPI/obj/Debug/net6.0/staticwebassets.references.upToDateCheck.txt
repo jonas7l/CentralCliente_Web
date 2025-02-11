@@ -1,0 +1,6 @@
+C:\Projetos-Jonas\CentralCliente\ClienteMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos-Jonas\CentralCliente\ClienteMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos-Jonas\CentralCliente\ClienteMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos-Jonas\CentralCliente\ClienteMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos-Jonas\CentralCliente\ClienteMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos-Jonas\CentralCliente\ClienteMVC\obj\Debug\net6.0\staticwebassets.build.json

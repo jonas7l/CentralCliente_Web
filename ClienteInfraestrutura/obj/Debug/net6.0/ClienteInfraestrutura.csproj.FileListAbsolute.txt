@@ -1,0 +1,17 @@
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\bin\Debug\net6.0\ClienteInfraestrutura.deps.json
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\bin\Debug\net6.0\ClienteInfraestrutura.runtimeconfig.json
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\bin\Debug\net6.0\ClienteInfraestrutura.dll
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\bin\Debug\net6.0\ClienteInfraestrutura.pdb
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\bin\Debug\net6.0\ClienteDominio.dll
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\bin\Debug\net6.0\ClienteDominio.pdb
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteInfraestrutura.csproj.AssemblyReference.cache
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteInfraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteInfraestrutura.AssemblyInfoInputs.cache
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteInfraestrutura.AssemblyInfo.cs
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteInfraestrutura.csproj.CoreCompileInputs.cache
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteI.6A9ABEEE.Up2Date
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteInfraestrutura.dll
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\refint\ClienteInfraestrutura.dll
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteInfraestrutura.pdb
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ClienteInfraestrutura.genruntimeconfig.cache
+C:\Projetos-Jonas\CentralCliente\ClienteInfraestrutura\obj\Debug\net6.0\ref\ClienteInfraestrutura.dll

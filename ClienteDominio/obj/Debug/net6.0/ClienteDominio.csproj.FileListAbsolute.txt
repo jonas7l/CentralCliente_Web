@@ -1,0 +1,14 @@
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\bin\Debug\net6.0\ClienteDominio.deps.json
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\bin\Debug\net6.0\ClienteDominio.runtimeconfig.json
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\bin\Debug\net6.0\ClienteDominio.dll
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\bin\Debug\net6.0\ClienteDominio.pdb
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ClienteDominio.csproj.AssemblyReference.cache
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ClienteDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ClienteDominio.AssemblyInfoInputs.cache
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ClienteDominio.AssemblyInfo.cs
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ClienteDominio.csproj.CoreCompileInputs.cache
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ClienteDominio.dll
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\refint\ClienteDominio.dll
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ClienteDominio.pdb
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ClienteDominio.genruntimeconfig.cache
+C:\Projetos-Jonas\CentralCliente\ClienteDominio\obj\Debug\net6.0\ref\ClienteDominio.dll

@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Cadastro de Clientes";
+}
+
+<h2>Cadastro de Clientes</h2>
+
+<form asp-action="Criar" method="post" enctype="multipart/form-data">
+    <div>
+        <label>Nome</label>
+        <input type="text" name="Nome" required />
+    </div>
+    <div>
+        <label>Email</label>
+        <input type="email" name="Email" required />
+    </div>
+    <div>
+        <label>Logradouro</label>
+        <input type="text" name="Logradouro" required />
+    </div>
+    <div>
+        <label>Logotipo</label>
+        <input type="file" name="Logotipo" />
+    </div>
+    <button type="submit">Cadastrar</button>
+</form>
+
+<h2>Clientes Cadastrados</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Logradouro</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in ViewBag.Clientes)
+        {
+            <tr>
+                <td>@cliente.Nome</td>
+                <td>@cliente.Email</td>
+                <td>@cliente.Logradouro</td>
+                <td>
+                    <form method="post" asp-action="Deletar" asp-route-id="@cliente.Id">
+                        <button type="submit" class="btn btn-danger">Deletar</button>
+                    </form>
+
+                    <form asp-action="Atualizar" method="post" enctype="multipart/form-data">
+                        <input type="hidden" name="Id" value="@cliente.Id" />
+                        <input type="text" name="Nome" value="@cliente.Nome" required />
+                        <input type="email" name="Email" value="@cliente.Email" required />
+                        <input type="text" name="Logradouro" value="@cliente.Logradouro" required />
+                        <input type="file" name="Logotipo" />
+                        <button type="submit" class="btn btn-warning">Atualizar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
