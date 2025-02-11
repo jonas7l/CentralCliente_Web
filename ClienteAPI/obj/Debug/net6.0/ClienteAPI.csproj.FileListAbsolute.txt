@@ -1,5 +1,11 @@
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.deps.json
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.runtimeconfig.json
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.staticwebassets.runtime.json
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.staticwebassets.endpoints.json
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.exe
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\appsettings.json
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteAPI.staticwebassets.runtime.json
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteAPI.staticwebassets.endpoints.json
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteAPI.exe
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteAPI.deps.json
@@ -9,6 +15,7 @@ C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteAPI.pdb
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\EntityFramework.dll
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -55,8 +62,10 @@ C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\runtimes\win\lib\ne
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteAplicacao.dll
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteDominio.dll
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteInfraestrutura.dll
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.dll
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteAplicacao.pdb
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteInfraestrutura.pdb
+C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.pdb
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteDominio.pdb
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\obj\Debug\net6.0\ClienteAPI.csproj.AssemblyReference.cache
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\obj\Debug\net6.0\ClienteAPI.GeneratedMSBuildEditorConfig.editorconfig
@@ -82,11 +91,3 @@ C:\Projetos-Jonas\CentralCliente\ClienteAPI\obj\Debug\net6.0\refint\ClienteAPI.d
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\obj\Debug\net6.0\ClienteAPI.pdb
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\obj\Debug\net6.0\ClienteAPI.genruntimeconfig.cache
 C:\Projetos-Jonas\CentralCliente\ClienteAPI\obj\Debug\net6.0\ref\ClienteAPI.dll
-C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.deps.json
-C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.runtimeconfig.json
-C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.staticwebassets.runtime.json
-C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.staticwebassets.endpoints.json
-C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.exe
-C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteAPI.staticwebassets.runtime.json
-C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.dll
-C:\Projetos-Jonas\CentralCliente\ClienteAPI\bin\Debug\net6.0\ClienteMVC.pdb

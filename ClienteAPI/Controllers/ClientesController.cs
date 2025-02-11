@@ -1,33 +1,38 @@
 ﻿using ClienteAplicacao.Interfaces;
-using ClienteDominio.Entidades;
+
 using ClienteMVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.Extensions.Caching.Memory;
 
+[Authorize]
 [ApiController]
 [Route("api/clientes")]
 public class ClientesController : ControllerBase
 {
     private readonly IClienteServico _servico;
+    private readonly IMemoryCache _cache;
 
-    public ClientesController(IClienteServico servico)
+
+    public ClientesController(IClienteServico servico, IMemoryCache cache)
     {
         _servico = servico;
+        _cache = cache;
     }
-
+    
     [HttpGet]
-    public async Task<IActionResult> ObterClientes()
+    public async Task<IActionResult> ObterClientes([FromQuery] int page = 1, [FromQuery] int pageSize = 10)
     {
         var clientes = await _servico.ObterClientes();
+        var pagedClientes = clientes.Skip((page - 1) * pageSize).Take(pageSize).ToList();
 
-        var resultado = clientes.Select(cliente => new
+        return Ok(new
         {
-            cliente.Id,
-            cliente.Nome,
-            cliente.Email,
-            Logradouros = cliente.Enderecos?.Select(e => e.Logradouro).ToList() ?? new List<string>() 
+            TotalClientes = clientes.Count,
+            PaginaAtual = page,
+            TamanhoPagina = pageSize,
+            Clientes = pagedClientes
         });
-
-        return Ok(resultado);
     }
 
     [HttpPost]
@@ -38,7 +43,7 @@ public class ClientesController : ControllerBase
             return BadRequest(ModelState);
         }
 
-        var clienteObj = new Cliente
+        var clienteObj = new Clientes
         {
             Nome = cliente.Nome,
             Email = cliente.Email,
@@ -57,30 +62,62 @@ public class ClientesController : ControllerBase
     [HttpPut("{id}")]
     public async Task<IActionResult> AtualizarCliente(Guid id, [FromForm] ClienteDto cliente)
     {
-        var clienteObj = new Cliente
+        if (id == Guid.Empty)
         {
-            Id = id,
-            Nome = cliente.Nome,
-            Email = cliente.Email,
-            Logotipo = cliente.Logotipo != null ? ConvertToByteArray(cliente.Logotipo) : null
-        };
+            return BadRequest("ID do cliente inválido.");
+        }
 
-        var sucesso = await _servico.AtualizarCliente(clienteObj);
-        if (!sucesso)
+        var clienteExistente = await _servico.ObterClientePorId(id);
+        if (clienteExistente == null)
+        {
             return NotFound("Cliente não encontrado.");
+        }
+
+        clienteExistente.Nome = cliente.Nome;
+        clienteExistente.Email = cliente.Email;
+
+        if (cliente.Logotipo != null)
+        {
+            clienteExistente.Logotipo = ConvertToByteArray(cliente.Logotipo);
+        }
+
+        // Atualizar os logradouros
+        if (cliente.Logradouros != null && cliente.Logradouros.Count > 0)
+        {
+            clienteExistente.Enderecos.Clear();
+            clienteExistente.Enderecos.AddRange(cliente.Logradouros.Select(logradouro => new Endereco
+            {
+                ClienteId = id,
+                Logradouro = logradouro
+            }));
+        }
+
+        var sucesso = await _servico.AtualizarCliente(clienteExistente);
+        if (!sucesso)
+            return BadRequest("Erro ao atualizar cliente.");
 
         return NoContent();
     }
+
 
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeletarCliente(Guid id)
     {
+        var cliente = await _servico.ObterClientePorId(id);
+        if (cliente == null)
+        {
+            return NotFound("Cliente não encontrado.");
+        }
+
         var sucesso = await _servico.DeletarCliente(id);
         if (!sucesso)
-            return NotFound("Cliente não encontrado.");
+        {
+            return BadRequest("Erro ao deletar cliente.");
+        }
 
         return NoContent();
     }
+
 
     private byte[] ConvertToByteArray(IFormFile file)
     {

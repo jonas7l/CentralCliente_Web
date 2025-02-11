@@ -11,7 +11,7 @@ public class ClientesController : Controller
     public ClientesController(HttpClient httpClient)
     {
         _httpClient = httpClient;
-        _httpClient.BaseAddress = new Uri("https://localhost:5001/api/clientes");
+        _httpClient.BaseAddress = new Uri("https://localhost:7055/api/clientes");
     }
 
     public async Task<IActionResult> Index()
@@ -23,6 +23,7 @@ public class ClientesController : Controller
         ViewBag.Clientes = clientes;
         return View();
     }
+
 
     [HttpPost]
     public async Task<IActionResult> Criar(ClienteDto cliente)
@@ -52,7 +53,7 @@ public class ClientesController : Controller
         return View("Index");
     }
 
-    [HttpPost] // ✅ Alterado de [HttpPut] para [HttpPost] porque HTML não suporta PUT diretamente
+    [HttpPost]
     public async Task<IActionResult> Atualizar(ClienteDto cliente)
     {
         using var content = new MultipartFormDataContent();
@@ -81,10 +82,11 @@ public class ClientesController : Controller
         return View("Index");
     }
 
-    [HttpPost] // ✅ Alterado de [HttpDelete] para [HttpPost] porque HTML não suporta DELETE diretamente
+    [HttpPost]
     public async Task<IActionResult> Deletar(Guid id)
     {
         await _httpClient.DeleteAsync($"{id}");
         return RedirectToAction("Index");
     }
+
 }

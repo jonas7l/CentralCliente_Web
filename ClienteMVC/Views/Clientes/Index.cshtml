@@ -15,7 +15,7 @@
     </div>
     <div>
         <label>Logradouro</label>
-        <input type="text" name="Logradouro" required />
+        <input type="text" name="Logradouros" required />
     </div>
     <div>
         <label>Logotipo</label>
@@ -31,7 +31,8 @@
         <tr>
             <th>Nome</th>
             <th>Email</th>
-            <th>Logradouro</th>
+            <th>Logradouros</th>
+            <th>Logotipo</th> 
             <th>Ações</th>
         </tr>
     </thead>
@@ -41,7 +42,20 @@
             <tr>
                 <td>@cliente.Nome</td>
                 <td>@cliente.Email</td>
-                <td>@cliente.Logradouro</td>
+                <td>
+                    <ul>
+                        @foreach (var logradouro in cliente.Logradouros)
+                        {
+                            <li>@logradouro</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(cliente.LogotipoBase64))
+                    {
+                        <img src="data:image/png;base64,@cliente.LogotipoBase64" width="100" />
+                    }
+                </td>
                 <td>
                     <form method="post" asp-action="Deletar" asp-route-id="@cliente.Id">
                         <button type="submit" class="btn btn-danger">Deletar</button>
@@ -51,7 +65,7 @@
                         <input type="hidden" name="Id" value="@cliente.Id" />
                         <input type="text" name="Nome" value="@cliente.Nome" required />
                         <input type="email" name="Email" value="@cliente.Email" required />
-                        <input type="text" name="Logradouro" value="@cliente.Logradouro" required />
+                        <input type="text" name="Logradouros" value="@string.Join(", ", cliente.Logradouros)" required />
                         <input type="file" name="Logotipo" />
                         <button type="submit" class="btn btn-warning">Atualizar</button>
                     </form>

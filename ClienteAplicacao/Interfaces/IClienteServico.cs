@@ -1,12 +1,13 @@
-﻿using ClienteDominio.Entidades;
+﻿
 
 namespace ClienteAplicacao.Interfaces
 {
     public interface IClienteServico
     {
-        Task<bool> CriarCliente(Cliente cliente);
-        Task<List<Cliente>> ObterClientes();
-        Task<bool> AtualizarCliente(Cliente cliente); 
+        Task<bool> CriarCliente(Clientes cliente);
+        Task<List<Clientes>> ObterClientes();
+        Task<Clientes?> ObterClientePorId(Guid clienteId); 
+        Task<bool> AtualizarCliente(Clientes cliente);
         Task<bool> DeletarCliente(Guid clienteId);
     }
 }

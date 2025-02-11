@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3dGmwLnbFK7PE9yWY42ZDztSoRUNmRp88E9aMhrG7ms=",
+  "Hash": "IAiunvs4iqDksvLx/VoDVaOOGXq/1eogVu7O99v9DM4=",
   "Source": "ClienteAPI",
   "BasePath": "_content/ClienteAPI",
   "Mode": "Default",
@@ -1359,7 +1359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 01:16:59 GMT"
+          "Value": "Tue, 11 Feb 2025 11:41:23 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1396,7 +1396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 01:16:59 GMT"
+          "Value": "Tue, 11 Feb 2025 11:41:23 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6361,7 +6361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 02:05:46 GMT"
+          "Value": "Tue, 11 Feb 2025 11:41:24 GMT"
         },
         {
           "Name": "Link",
@@ -6402,7 +6402,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 02:05:46 GMT"
+          "Value": "Tue, 11 Feb 2025 11:41:24 GMT"
         },
         {
           "Name": "Link",

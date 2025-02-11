@@ -1,81 +1,73 @@
 ﻿using ClienteInfraestrutura.Interfaces;
-using ClienteDominio.Entidades;
-using Microsoft.Data.SqlClient;
+
 using Microsoft.EntityFrameworkCore;
-using System.Data;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using ClienteInfraestrutura;
 
-namespace ClienteInfraestrutura.Repositorios
+public class ClienteRepositorio : IClienteRepositorio
 {
-    public class ClienteRepositorio : IClienteRepositorio
+    private readonly ClienteDbContext _context;
+
+    public ClienteRepositorio(ClienteDbContext context)
     {
-        private readonly ClienteDbContext _context;
+        _context = context;
+    }
 
-        public ClienteRepositorio(ClienteDbContext context)
+    public async Task<bool> CriarCliente(Clientes cliente)
+    {
+        if (await _context.Clientes.AnyAsync(c => c.Email == cliente.Email))
         {
-            _context = context;
+            throw new Exception("O e-mail já está em uso.");
         }
 
-        public async Task<bool> CriarCliente(Cliente cliente)
+        await _context.Clientes.AddAsync(cliente);
+        await _context.SaveChangesAsync();
+        return true;
+    }
+
+    public async Task<List<Clientes>> ObterClientes()
+    {
+        return await _context.Clientes
+            .Include(c => c.Enderecos)  // 🔹 Busca os logradouros corretamente através dos endereços
+            .ToListAsync();
+    }
+
+    public async Task<Clientes?> ObterClientePorId(Guid clienteId) 
+    {
+        return await _context.Clientes
+            .Include(c => c.Enderecos)
+            .FirstOrDefaultAsync(c => c.Id == clienteId);
+    }
+
+    public async Task<bool> AtualizarCliente(Clientes cliente)
+    {
+        var clienteExistente = await _context.Clientes.FindAsync(cliente.Id);
+        if (clienteExistente == null)
         {
-            if (await _context.Clientes.AnyAsync(c => c.Email == cliente.Email))
-            {
-                throw new Exception("E-mail já está em uso.");
-            }
-
-            using var connection = _context.Database.GetDbConnection() as SqlConnection;
-            if (connection == null) return false;
-
-            await connection.OpenAsync();
-
-            using var command = new SqlCommand("sp_InserirCliente", connection)
-            {
-                CommandType = CommandType.StoredProcedure
-            };
-
-            command.Parameters.AddWithValue("@Nome", cliente.Nome);
-            command.Parameters.AddWithValue("@Email", cliente.Email);
-            command.Parameters.AddWithValue("@Logotipo", (object?)cliente.Logotipo ?? DBNull.Value);
-
-            await command.ExecuteNonQueryAsync();
-            return true;
+            return false;
         }
 
-        public async Task<List<Cliente>> ObterClientes()
+        clienteExistente.Nome = cliente.Nome;
+        clienteExistente.Email = cliente.Email;
+        clienteExistente.Logotipo = cliente.Logotipo;
+
+        _context.Clientes.Update(clienteExistente);
+        await _context.SaveChangesAsync();
+        return true;
+    }
+
+    public async Task<bool> DeletarCliente(Guid clienteId)
+    {
+        var cliente = await _context.Clientes.FindAsync(clienteId);
+        if (cliente == null)
         {
-            return await _context.Clientes
-                .Include(c => c.Enderecos) 
-                .ToListAsync();
+            return false;
         }
 
-        public async Task<bool> AtualizarCliente(Cliente cliente) // ✅ Implementação correta
-        {
-            using var connection = _context.Database.GetDbConnection() as SqlConnection;
-            if (connection == null) return false;
-
-            await connection.OpenAsync();
-
-            using var command = new SqlCommand("sp_AtualizarCliente", connection)
-            {
-                CommandType = CommandType.StoredProcedure
-            };
-
-            command.Parameters.AddWithValue("@Id", cliente.Id);
-            command.Parameters.AddWithValue("@Nome", cliente.Nome);
-            command.Parameters.AddWithValue("@Email", cliente.Email);
-            command.Parameters.AddWithValue("@Logotipo", (object?)cliente.Logotipo ?? DBNull.Value);
-
-            var rowsAffected = await command.ExecuteNonQueryAsync();
-            return rowsAffected > 0;
-        }
-
-        public async Task<bool> DeletarCliente(Guid clienteId)
-        {
-            var cliente = await _context.Clientes.FindAsync(clienteId);
-            if (cliente == null) return false;
-
-            _context.Clientes.Remove(cliente);
-            await _context.SaveChangesAsync();
-            return true;
-        }
+        _context.Clientes.Remove(cliente);
+        await _context.SaveChangesAsync();
+        return true;
     }
 }
