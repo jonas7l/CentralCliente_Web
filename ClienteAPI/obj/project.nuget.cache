@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qCY5g+j9wN8=",
+  "dgSpecHash": "n2lLgjhrmu4=",
   "success": true,
-  "projectFilePath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\ClienteAPI.csproj",
+  "projectFilePath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\ClienteAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonas\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\Jonas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

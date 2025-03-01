@@ -1,4 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 public class Enderecos
 {
@@ -11,5 +13,10 @@ public class Enderecos
     [Required(ErrorMessage = "O Logradouro é obrigatório.")]
     public string Logradouro { get; set; }
 
+    [JsonIgnore] // Evita ciclo infinito na serialização
     public Clientes Cliente { get; set; }
 }
+
+
+
+

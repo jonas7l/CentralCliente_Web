@@ -2,7 +2,7 @@
 using ClienteAplicacao.Servicos;
 using ClienteInfraestrutura;
 using ClienteInfraestrutura.Interfaces;
-
+using ClienteInfraestrutura.Repositorios;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -12,14 +12,23 @@ using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 
 // 🔹 Configuração do banco de dados
+//var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+//builder.Services.AddDbContext<ClienteDbContext>(options =>
+//    options.UseSqlServer(connectionString));
+
+// 🔹 Configuração do banco de dados
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ClienteDbContext>(options =>
-    options.UseSqlServer(connectionString));
+    options.UseSqlServer(connectionString, sqlOptions =>
+        sqlOptions.MigrationsAssembly("ClienteInfraestrutura"))); // 🔹 Definindo a assembly correta
 
 // 🔹 Adicionando serviços da aplicação
 builder.Services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
 builder.Services.AddScoped<IClienteServico, ClienteServico>();
 builder.Services.AddMemoryCache();
+builder.Services.AddScoped<IEnderecoRepositorio, EnderecoRepositorio>();
+builder.Services.AddScoped<IEnderecoServico, EnderecoServico>();
+
 
 // 🔹 Configuração de Autenticação JWT
 var jwtSettings = builder.Configuration.GetSection("Jwt");
@@ -45,7 +54,12 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 
 builder.Services.AddAuthorization();
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+        options.JsonSerializerOptions.WriteIndented = true;
+    });
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
 {

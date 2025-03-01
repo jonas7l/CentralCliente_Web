@@ -3008,11 +3008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\ClienteAPI.csproj",
+      "projectUniqueName": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\ClienteAPI.csproj",
       "projectName": "ClienteAPI",
-      "projectPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\ClienteAPI.csproj",
+      "projectPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\ClienteAPI.csproj",
       "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\obj\\",
+      "outputPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3030,14 +3030,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos-Jonas\\CentralCliente\\ClienteAplicacao\\ClienteAplicacao.csproj": {
-              "projectPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAplicacao\\ClienteAplicacao.csproj"
+            "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAplicacao\\ClienteAplicacao.csproj": {
+              "projectPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAplicacao\\ClienteAplicacao.csproj"
             },
-            "C:\\Projetos-Jonas\\CentralCliente\\ClienteInfraestrutura\\ClienteInfraestrutura.csproj": {
-              "projectPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteInfraestrutura\\ClienteInfraestrutura.csproj"
+            "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteInfraestrutura\\ClienteInfraestrutura.csproj": {
+              "projectPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteInfraestrutura\\ClienteInfraestrutura.csproj"
             },
-            "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\ClienteMVC.csproj": {
-              "projectPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\ClienteMVC.csproj"
+            "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\ClienteMVC.csproj": {
+              "projectPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\ClienteMVC.csproj"
             }
           }
         }

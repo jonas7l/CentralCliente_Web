@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 public class Clientes
 {
@@ -15,6 +16,7 @@ public class Clientes
     public byte[]? Logotipo { get; set; }
 
     // 🔹 RELAÇÃO CORRETA: Um cliente pode ter vários endereços
+    [JsonIgnore] // Evita ciclo infinito na serialização
     public List<Endereco>? Enderecos { get; set; } = new List<Endereco>();
 }
 

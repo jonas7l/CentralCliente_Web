@@ -2492,11 +2492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAplicacao\\ClienteAplicacao.csproj",
+      "projectUniqueName": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAplicacao\\ClienteAplicacao.csproj",
       "projectName": "ClienteAplicacao",
-      "projectPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAplicacao\\ClienteAplicacao.csproj",
+      "projectPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAplicacao\\ClienteAplicacao.csproj",
       "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAplicacao\\obj\\",
+      "outputPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2514,11 +2514,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos-Jonas\\CentralCliente\\ClienteDominio\\ClienteDominio.csproj": {
-              "projectPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteDominio\\ClienteDominio.csproj"
+            "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteDominio\\ClienteDominio.csproj": {
+              "projectPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteDominio\\ClienteDominio.csproj"
             },
-            "C:\\Projetos-Jonas\\CentralCliente\\ClienteInfraestrutura\\ClienteInfraestrutura.csproj": {
-              "projectPath": "C:\\Projetos-Jonas\\CentralCliente\\ClienteInfraestrutura\\ClienteInfraestrutura.csproj"
+            "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteInfraestrutura\\ClienteInfraestrutura.csproj": {
+              "projectPath": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteInfraestrutura\\ClienteInfraestrutura.csproj"
             }
           }
         }

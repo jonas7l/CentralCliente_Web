@@ -118,5 +118,37 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClienteAPI.Controllers.EnderecoController",
+    "Method": "AdicionarEndereco",
+    "RelativePath": "api/enderecos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "enderecoDto",
+        "Type": "EnderecoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClienteAPI.Controllers.EnderecoController",
+    "Method": "ObterEnderecos",
+    "RelativePath": "api/enderecos/{clienteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clienteId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

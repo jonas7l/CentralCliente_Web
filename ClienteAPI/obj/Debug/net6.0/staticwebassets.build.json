@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "IAiunvs4iqDksvLx/VoDVaOOGXq/1eogVu7O99v9DM4=",
+  "Hash": "nAii5tkqqVLmzmQNpvTx0BK307tG0uphFbuknz0+2L8=",
   "Source": "ClienteAPI",
   "BasePath": "_content/ClienteAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\ClienteMVC.csproj",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\ClienteMVC.csproj",
       "Version": 2,
       "Source": "ClienteMVC",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "ClienteMVC\\wwwroot",
       "Source": "ClienteMVC",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClienteAPI.styles.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClienteAPI.styles.css",
       "SourceId": "ClienteAPI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ClienteAPI",
       "RelativePath": "ClienteAPI#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -47,13 +47,13 @@
       "Integrity": "67ufrf+7pTxaxL08kEEj65FxuZRJKm/eEGdbfbZZKvI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClienteAPI.styles.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClienteAPI.styles.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteMVC.bundle.scp.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteMVC.bundle.scp.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "ClienteMVC#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -68,13 +68,13 @@
       "Integrity": "n0kevjuQ06zYAKwxY7pQAU+DUA5MdCb1KGXl5DcjHLM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteMVC.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteMVC.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\css\\site.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -89,13 +89,13 @@
       "Integrity": "AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL+c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\css\\site.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\favicon.ico",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -110,13 +110,13 @@
       "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\js\\site.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -131,13 +131,13 @@
       "Integrity": "4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\js\\site.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -152,13 +152,13 @@
       "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -173,13 +173,13 @@
       "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -194,13 +194,13 @@
       "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -215,13 +215,13 @@
       "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -236,13 +236,13 @@
       "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -257,13 +257,13 @@
       "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -278,13 +278,13 @@
       "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "Integrity": "JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -341,13 +341,13 @@
       "Integrity": "QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -362,13 +362,13 @@
       "Integrity": "ysBT/JYxH9gcMnwxT4+MB4sPxOx/JMg9wi77FA13T9A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -383,13 +383,13 @@
       "Integrity": "72C/qDCGu+OwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -404,13 +404,13 @@
       "Integrity": "3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -425,13 +425,13 @@
       "Integrity": "qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs+Wu6U8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -446,13 +446,13 @@
       "Integrity": "O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD+3j0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -467,13 +467,13 @@
       "Integrity": "NDSZjIiMPRIoO7/w7+jHef8retP4riQa8PMj4BVRGok=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -488,13 +488,13 @@
       "Integrity": "4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -509,13 +509,13 @@
       "Integrity": "FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -530,13 +530,13 @@
       "Integrity": "z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -551,13 +551,13 @@
       "Integrity": "2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -572,13 +572,13 @@
       "Integrity": "8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -593,13 +593,13 @@
       "Integrity": "/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -614,13 +614,13 @@
       "Integrity": "a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -635,13 +635,13 @@
       "Integrity": "GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -656,13 +656,13 @@
       "Integrity": "NbFZxZLmBVNLzb/7B0WdFfb6+8jXHGX6XY190uwgbec=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "Integrity": "4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d+9/qNju20=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "Integrity": "5+ExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -719,13 +719,13 @@
       "Integrity": "p1dop4slefZhL4zG2pa6+2HUrOY1UUArGJXmet8Md9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -740,13 +740,13 @@
       "Integrity": "peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -761,13 +761,13 @@
       "Integrity": "puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -782,13 +782,13 @@
       "Integrity": "Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj+XFifSSqN4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -803,13 +803,13 @@
       "Integrity": "02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX+96Pt/88=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -824,13 +824,13 @@
       "Integrity": "vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -845,13 +845,13 @@
       "Integrity": "gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -866,13 +866,13 @@
       "Integrity": "KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -887,13 +887,13 @@
       "Integrity": "xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -908,13 +908,13 @@
       "Integrity": "EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -929,13 +929,13 @@
       "Integrity": "CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -950,13 +950,13 @@
       "Integrity": "Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -971,13 +971,13 @@
       "Integrity": "sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -992,13 +992,13 @@
       "Integrity": "6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1013,13 +1013,13 @@
       "Integrity": "Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "Integrity": "c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1055,13 +1055,13 @@
       "Integrity": "ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1076,13 +1076,13 @@
       "Integrity": "ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "Integrity": "QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1118,13 +1118,13 @@
       "Integrity": "9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1139,13 +1139,13 @@
       "Integrity": "PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1160,13 +1160,13 @@
       "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1181,13 +1181,13 @@
       "Integrity": "4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1202,13 +1202,13 @@
       "Integrity": "N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1223,13 +1223,13 @@
       "Integrity": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1244,13 +1244,13 @@
       "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1265,13 +1265,13 @@
       "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1286,13 +1286,13 @@
       "Integrity": "XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1307,13 +1307,13 @@
       "Integrity": "zV8SHd+o2hq7FLST9WlWzpZMGfniOYeMMrQT6lTxjls=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ClienteMVC",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\",
       "BasePath": "_content/ClienteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1328,13 +1328,13 @@
       "Integrity": "aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     }
   ],
   "Endpoints": [
     {
       "Route": "_content/ClienteMVC/ClienteMVC.bundle.scp.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteMVC.bundle.scp.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteMVC.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1359,7 +1359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 11:41:23 GMT"
+          "Value": "Sat, 01 Mar 2025 12:30:54 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1371,7 +1371,7 @@
     },
     {
       "Route": "_content/ClienteMVC/ClienteMVC.dxnlm1tgff.bundle.scp.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteMVC.bundle.scp.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteMVC.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1396,7 +1396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 11:41:23 GMT"
+          "Value": "Sat, 01 Mar 2025 12:30:54 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1416,7 +1416,7 @@
     },
     {
       "Route": "_content/ClienteMVC/css/site.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1453,7 +1453,7 @@
     },
     {
       "Route": "_content/ClienteMVC/css/site.oq8r4nbcb2.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1498,7 +1498,7 @@
     },
     {
       "Route": "_content/ClienteMVC/favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1543,7 +1543,7 @@
     },
     {
       "Route": "_content/ClienteMVC/favicon.ico",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1580,7 +1580,7 @@
     },
     {
       "Route": "_content/ClienteMVC/js/site.6b9nfc4n3r.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1625,7 +1625,7 @@
     },
     {
       "Route": "_content/ClienteMVC/js/site.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1662,7 +1662,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1699,7 +1699,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1744,7 +1744,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1781,7 +1781,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1826,7 +1826,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1863,7 +1863,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1908,7 +1908,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1945,7 +1945,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1990,7 +1990,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2027,7 +2027,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2072,7 +2072,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2109,7 +2109,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2154,7 +2154,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2191,7 +2191,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2236,7 +2236,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2273,7 +2273,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2318,7 +2318,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2363,7 +2363,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2400,7 +2400,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2437,7 +2437,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2482,7 +2482,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2519,7 +2519,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2564,7 +2564,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2601,7 +2601,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2646,7 +2646,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2683,7 +2683,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2728,7 +2728,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2765,7 +2765,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2802,7 +2802,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2839,7 +2839,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2884,7 +2884,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2929,7 +2929,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2974,7 +2974,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3019,7 +3019,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3056,7 +3056,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3101,7 +3101,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3138,7 +3138,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3175,7 +3175,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3212,7 +3212,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3257,7 +3257,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3302,7 +3302,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3347,7 +3347,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3384,7 +3384,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3429,7 +3429,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3466,7 +3466,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3503,7 +3503,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3540,7 +3540,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3585,7 +3585,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3630,7 +3630,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3667,7 +3667,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3712,7 +3712,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3749,7 +3749,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3794,7 +3794,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3831,7 +3831,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3868,7 +3868,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3913,7 +3913,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3958,7 +3958,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3995,7 +3995,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4040,7 +4040,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4077,7 +4077,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4114,7 +4114,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4159,7 +4159,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4196,7 +4196,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4241,7 +4241,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4286,7 +4286,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4323,7 +4323,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4368,7 +4368,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4405,7 +4405,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4450,7 +4450,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4495,7 +4495,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4532,7 +4532,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4577,7 +4577,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4614,7 +4614,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4651,7 +4651,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4696,7 +4696,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4733,7 +4733,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4778,7 +4778,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4815,7 +4815,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4852,7 +4852,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4897,7 +4897,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4942,7 +4942,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4979,7 +4979,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5024,7 +5024,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5061,7 +5061,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5098,7 +5098,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5135,7 +5135,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5180,7 +5180,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5225,7 +5225,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5270,7 +5270,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5307,7 +5307,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5352,7 +5352,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5389,7 +5389,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery/dist/jquery.min.5trh6b1mit.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5434,7 +5434,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5479,7 +5479,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5516,7 +5516,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5553,7 +5553,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery/dist/jquery.vwa26bmbsk.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5598,7 +5598,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5643,7 +5643,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5680,7 +5680,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5725,7 +5725,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5762,7 +5762,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5807,7 +5807,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5844,7 +5844,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5881,7 +5881,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5926,7 +5926,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5963,7 +5963,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6008,7 +6008,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6045,7 +6045,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6090,7 +6090,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0td7jq9nxb.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6135,7 +6135,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6172,7 +6172,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6209,7 +6209,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.zsyoy62yqm.js",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6254,7 +6254,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6291,7 +6291,7 @@
     },
     {
       "Route": "_content/ClienteMVC/lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6336,7 +6336,7 @@
     },
     {
       "Route": "ClienteAPI.styles.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClienteAPI.styles.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClienteAPI.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6361,7 +6361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 11:41:24 GMT"
+          "Value": "Sat, 01 Mar 2025 12:30:54 GMT"
         },
         {
           "Name": "Link",
@@ -6377,7 +6377,7 @@
     },
     {
       "Route": "ClienteAPI.z2s7mz7udc.styles.css",
-      "AssetFile": "C:\\Projetos-Jonas\\CentralCliente\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClienteAPI.styles.css",
+      "AssetFile": "C:\\Projetos-Jonas\\Projetos\\CentralCliente_Web\\ClienteAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClienteAPI.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6402,7 +6402,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 11:41:24 GMT"
+          "Value": "Sat, 01 Mar 2025 12:30:54 GMT"
         },
         {
           "Name": "Link",
